@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.wallet.WalletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-21T04:22:46" hostname="gurushifu-gurushifugitp-kshl8h1y7rd" time="0.006">
+  <properties/>
+  <testcase name="shouldIncreaseBalanceWhenSomeAdditionalAmountAddedToWallet()" classname="com.thoughtworks.wallet.WalletTest" time="0.002"/>
+  <testcase name="shouldHaveInitialBalanceZeroWhenWalletIsCreated()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <testcase name="shouldIncreaseBalanceWhenAmountIsAddedToWallet()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
